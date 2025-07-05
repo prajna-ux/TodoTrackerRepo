@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.DalLayer", "Todo.DalLayer\Todo.DalLayer.csproj", "{ABCFEE04-1152-4379-A65A-ED985680C2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoConsoleApp", "TodoConsoleApp\TodoConsoleApp.csproj", "{BEDC42D8-ABF5-41D9-A685-7FAF74C555EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABCFEE04-1152-4379-A65A-ED985680C2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCFEE04-1152-4379-A65A-ED985680C2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCFEE04-1152-4379-A65A-ED985680C2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCFEE04-1152-4379-A65A-ED985680C2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDC42D8-ABF5-41D9-A685-7FAF74C555EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDC42D8-ABF5-41D9-A685-7FAF74C555EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDC42D8-ABF5-41D9-A685-7FAF74C555EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDC42D8-ABF5-41D9-A685-7FAF74C555EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D0A7F7F-8720-49E4-A130-AE23DE07D8AD}
+	EndGlobalSection
+EndGlobal
